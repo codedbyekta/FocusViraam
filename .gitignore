@@ -1,0 +1,12 @@
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+.env
+.env.*
+!.env.example
+
+focus_model.pkl
+*.csv
+*.log
